@@ -73494,7 +73494,7 @@ glw(){return"windows"},
 gng(){return"\\"}}
 A.DW.prototype={
 P(a){var s=null
-return new A.vZ(new A.tV(s),"Chatbot",A.qJ(B.a0,s,s),!1,s)}}
+return new A.vZ(new A.tV(s),"Pocket Regard",A.qJ(B.a0,s,s),!1,s)}}
 A.tV.prototype={
 am(){var s=A.c([],t.m0)
 return new A.z8(s,new A.IT(B.wY,$.ak()))}}
