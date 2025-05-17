@@ -73506,7 +73506,7 @@ v8(a){return this.a7M(a)},
 a7M(a){var s=0,r=A.S(t.H),q=this,p,o,n,m,l,k,j,i
 var $async$v8=A.O(function(b,c){if(b===1)return A.P(c,r)
 while(true)switch(s){case 0:q.au(new A.a9x(q))
-p=A.axH("POST",A.fV("https://9bcc-116-88-197-148.ngrok-free.app/chat"))
+p=A.axH("POST",A.fV("https://4167-116-88-197-148.ngrok-free.app/chat"))
 p.r.m(0,"Content-Type","application/json")
 o=t.N
 n=B.dk.P9(A.ah(["query",a],o,o),null)
